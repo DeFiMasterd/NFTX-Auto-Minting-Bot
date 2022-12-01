@@ -1,4 +1,4 @@
-<h1 align="center">Ethereum Minting Bot</h1>
+<h1 align="center">Ethereum NFT Minting Bot</h1>
 
 
 ---
@@ -50,9 +50,6 @@ It's programmed with python so it's really really simple.
 ---
 # ☕️ Support
 You can contact me be creating an issue here, if you want to support me with some ETH here I always appreciate help 👍
-```
-0x9c1745cd518B2A34e9353E737C9816aB1632bC78
-```
 
 ---
 # 🚩 Troubleshooting
