@@ -1,0 +1,35 @@
+{
+// --------------------------------- 
+// name_of_price_method: If you know the name of the method the contract uses to display the price of the nft, ->
+// -> if not, leave it empty (ex.: "name_of_price_method": "",) and the bot will try the frequently used ones.
+// --------------------------------- 
+// name_of_minting_method: If you know the name of the minting method the contract uses, if not, leave it ->
+// -> empty (ex.: "name_of_minting_method": "",) and the bot will try the frequently used ones.
+// --------------------------------- 
+// nft_contract_address: Contract address of the nft collection you want to mint.
+// --------------------------------- 
+"name_of_price_method": "",
+"name_of_minting_method": "",
+"nft_contract_address": "",
+// --------------------------------- 
+// desired_amount: Amount of NFT's you want to buy, be aware that most NFT's have a limit on how much NFT's you can mint in one batch.
+// --------------------------------- 
+"desired_amount": "1",
+// --------------------------------- 
+// balance_to_buy_with: Amount of native token you want to use to buy, if you input a value too high, the robot will ->
+// -> only use the amount needed, if you input too low, the bot will notify you of the minimum needed.
+// --------------------------------- 
+"balance_to_buy_with": "1.6",
+// --------------------------------- 
+// address: Your public address. (ex.: "address": "0x35d408E2FA6C63ec3D35b66f8e5DAaefE2fe0d5f")
+// private_key: Your private key. (ex.: "private_key": "aed0c9e0c36bd06f6f66aff22e9c54522d6b81f1531a2296088a71185899494d")
+// --------------------------------- 
+"address": "",
+"private_key": "",
+// --------------------------------- 
+// mint_gas_amount: Limit of gas that will be used for minting transactions, if you leave it empty (ex.: "mint_gas_amount": ""), the bot itself will calculate the amount
+// mint_gas_price: Price of gas that will be used for minting transactions, if you leave it empty (ex.: "mint_gas_price": ""), the bot itself will get the amount needed from the chain
+// --------------------------------- 
+"mint_gas_amount": "",
+"mint_gas_price": ""
+}
