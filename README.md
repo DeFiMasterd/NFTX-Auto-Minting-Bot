@@ -3,7 +3,9 @@
 </div>
 <h1 align="center">Ethereum NFT Minting Bot</h1>
 
-
+[![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
+[![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
+[![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
 
 ---
 # 📚 Info
@@ -14,13 +16,14 @@ This bot will help you mint any NFT project that has a verified contract, no mat
 ## How it works 📝 Tutorial ?
 It's programmed with python so it's really really simple.
 
+```bash
 -   [1] Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
 -   [2] Download this entire project folder as a zip and extract it on your PC to a new folder
 -   [3] Open the folder in Visual Studio Code or your favorite code editor and open terminal -> type "pip3 install web3 && pip3 install requests && pip3 install cryptography" without double quotes to install the modules
 -   [4] Once installed open settings.json and fill the settings to mint collection you want
 -   [5] Once you are ready and the collection is about to mint (within 12 hours) open terminal and type "python3 minter.py" without double quotes
 -   [6] To stop the bot after successfull mint press CTRL + C
-
+```
     
 ## Disclaimer 
 **This bot does not guarantee you will get your NFT**, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
