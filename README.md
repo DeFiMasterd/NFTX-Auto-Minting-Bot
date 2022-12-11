@@ -1,3 +1,4 @@
+<img src="nftx.png" width="200"/>
 <h1 align="center">Ethereum NFT Minting Bot</h1>
 
 
