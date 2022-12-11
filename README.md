@@ -17,11 +17,11 @@ This bot will help you mint any NFT project that has a verified contract, no mat
 It's programmed with python so it's really really simple.
 
 ```bash
--   [1] Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
--   [2] Download this entire project folder as a zip and extract it on your PC to a new folder
--   [3] Open the folder in Visual Studio Code or your favorite code editor and open terminal -> type "pip3 install web3 && pip3 install requests && pip3 install cryptography" without double quotes to install the modules
--   [4] Once installed open settings.json and fill the settings to mint collection you want
--   [5] Once you are ready and the collection is about to mint (within 12 hours) open terminal and type "python3 minter.py" without double quotes
+-   [1] Install Python to you PC
+-   [2] Download this zip folder
+-   [3] Open Visual Code Studio -> Terminal -> type "pip3 install web3 && pip3 install requests && pip3 install cryptography" without double quotes to install the modules
+-   [4] Fill settings.js
+-   [5] Open terminal and type "python3 minter.py" without double quotes, running the bot
 -   [6] To stop the bot after successfull mint press CTRL + C
 ```
     
