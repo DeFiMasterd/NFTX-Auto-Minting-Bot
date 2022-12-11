@@ -1,5 +1,8 @@
+<div align="center">
 <img src="nftx.png" width="200"/>
+</div>
 <h1 align="center">Ethereum NFT Minting Bot</h1>
+
 
 
 ---
